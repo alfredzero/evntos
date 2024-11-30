@@ -1,5 +1,5 @@
 
-# Eventos App Support Page
+# Evntos App Support Page
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <img src='https://github.com/user-attachments/assets/9d879c78-bbf9-4423-9afb-0b9c937eb3bf' alt='Screenshot 0' style="width: 30%;">
@@ -12,7 +12,7 @@
 
 ## Support Information
 
-Welcome to the **Eventos App Support Page**. If you encounter any issues or have questions about using the app, please feel free to reach out.
+Welcome to the **Evntos App Support Page**. If you encounter any issues or have questions about using the app, please feel free to reach out.
 
 ### Contact Information
 - **Email**: [alfredojr@alfredoamezcua.com](mailto:alfredojr@alfredoamezcua.com)
